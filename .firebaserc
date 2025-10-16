@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "rossms-digital-hall-pass",
+    "hallpass": "digital-hall-pass-2d74d",
+    "v2": "rossms-digital-hall-pass"
+  },
+  "targets": {},
+  "etags": {}
+}
